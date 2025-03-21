@@ -12,7 +12,7 @@
 </ol>
 
 <hr>
-<p>Website is available <a href="https://web-production-164e1.up.railway.app/" target="_blank">here</a></p>
+<p>Website is available <a href="https://web-production-164e1.up.railway.app/" target="_blank">here</a>.</p>
 
 <hr>
 <p>This returns a JSON response similar to this: <pre>
@@ -30,4 +30,4 @@
 
 
 <h1>Made with 0 hours of sleep, superhenryman</h1>
-<p>Read LICENSE for licensing</p>
+<p>Read LICENSE for licensing.</p>
