@@ -3,7 +3,7 @@
 <h3>What is this? </h3>
 <h2>All it is a simple Random Quote API I coded at 3 am.</h2>
 
-<h3>How do I use it?</h3>
+<h3>How do I run it?</h3>
 <ol>
   <li>Run <pre>git clone https://github.com/superhenryman/RandomQuote/</pre></li>
   <li><pre>cd RandomQuote</pre></li>
@@ -31,3 +31,5 @@
 
 <h1>Made with 0 hours of sleep, superhenryman</h1>
 <p>Read LICENSE for licensing.</p>
+<hr>
+<h1>Note: 50 requests per second and 100 requests per minute.</h1>
