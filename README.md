@@ -1,4 +1,4 @@
-<h1 style="color:red"> Random Quote API </h1>
+<h1> Random Quote API </h1>
 
 <h3>What is this? </h3>
 <h2>All it is a simple Random Quote API I coded at 3 am.</h2>
