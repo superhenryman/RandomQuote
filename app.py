@@ -9,11 +9,14 @@ app = Flask(__name__)
 limiter = Limiter(get_remote_address, app=app, default_limits=["50 per second", "100 per minute"])
 
 def load_quotes():
+    """"
+    Returns Quotes with index.
+    """
     quotes = []
     with open("Quotes.csv", newline="", encoding="utf-8") as csvfile:
         reader = csv.DictReader(csvfile, delimiter=";")
         for i, row in enumerate(reader):
-            quotes.append((i, row))  # Store index alongside each dictionary
+            quotes.append((i, row))
     return quotes
 
 quotes_data = load_quotes()
